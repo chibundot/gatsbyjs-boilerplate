@@ -1,0 +1,15 @@
+To create and manage routes and redirects in Vercel, please follow these steps:
+
+Log in to your Vercel account and select your project.
+
+Click on the "Project Settings" button located on the top-right corner of your screen.
+
+From the dropdown menu, click on "Routes".
+
+In the "Routes" page, you can create new routes and redirects by clicking on the "Add" button.
+
+To create a new redirect, select "Redirect" from the dropdown menu, enter the source URL and destination URL, and configure any additional settings as needed.
+
+Save your changes and Vercel will automatically configure the redirect for you.
+
+I hope this information helps, and please let me know if you have any further questions or concerns.
